@@ -6,7 +6,7 @@ Projekt powstał jako element mojego portfolio i przedstawia cały proces tworze
 
 🌐 **Demo:** https://live-stitch-and-petal.pantheonsite.io
 
----
+
 
 # 📖 O projekcie
 
@@ -18,7 +18,7 @@ Podczas implementacji część elementów została dostosowana do możliwości w
 
 Efektem jest responsywny sklep internetowy umożliwiający przeglądanie produktów, dodawanie ich do koszyka oraz przejście przez proces zamówienia.
 
----
+
 
 # ✨ Zakres projektu
 
@@ -32,7 +32,7 @@ Efektem jest responsywny sklep internetowy umożliwiający przeglądanie produkt
 - responsywny układ dla komputerów, tabletów i urządzeń mobilnych,
 - wdrożenie projektu na platformę Pantheon.
 
----
+
 
 # 🛠️ Technologie
 
@@ -44,7 +44,7 @@ Efektem jest responsywny sklep internetowy umożliwiający przeglądanie produkt
 - CSS
 - Pantheon
 
----
+
 
 # 🚀 Proces realizacji
 
@@ -62,7 +62,7 @@ Testy responsywności
 Publikacja na Pantheon
 ```
 
----
+
 
 # 📚 Czego nauczyłam się podczas realizacji?
 
@@ -76,7 +76,7 @@ Podczas pracy rozwinęłam umiejętności związane z:
 - budowaniem responsywnych układów w Elementorze,
 - organizacją pracy z wykorzystaniem środowisk Dev, Test i Live na platformie Pantheon.
 
----
+
 
 # ℹ️ Informacje
 
@@ -88,6 +88,6 @@ Ze względu na demonstracyjny charakter strony:
 - wiadomości e-mail nie są wysyłane,
 - produkty mają charakter przykładowy.
 
----
+
 
 Dziękuję za odwiedzenie projektu!
