@@ -57,9 +57,9 @@ Efektem jest responsywny sklep internetowy umożliwiający przeglądanie produkt
 
 ### Wersja mobilna
 
-<img width="334" height="656" alt="mobile1" src="https://github.com/user-attachments/assets/edd0b60f-c8d5-40c8-ac96-6b5235e84216" />
-<img width="334" height="656" alt="mobile2" src="https://github.com/user-attachments/assets/73b79196-60a9-4ee2-bf6a-b217483dc73e" />
-<img width="334" height="656" alt="mobile3" src="https://github.com/user-attachments/assets/0d582bdb-6915-485f-9752-be5c04fee205" />
+<img width="316" height="656" alt="mobile1" src="https://github.com/user-attachments/assets/edd0b60f-c8d5-40c8-ac96-6b5235e84216" />
+<img width="316" height="656" alt="mobile2" src="https://github.com/user-attachments/assets/73b79196-60a9-4ee2-bf6a-b217483dc73e" />
+<img width="316" height="656" alt="mobile3" src="https://github.com/user-attachments/assets/0d582bdb-6915-485f-9752-be5c04fee205" />
 
 ---
 
