@@ -1,3 +1,4 @@
+<img width="1859" height="948" alt="home" src="https://github.com/user-attachments/assets/a646bd15-6302-48e0-bbc7-5dd74e91339b" />
 # 🧵 Stitch & Petal
 
 Sklep internetowy zaprojektowany w **Figmie** i zrealizowany w **WordPressie** z wykorzystaniem **WooCommerce** oraz **Elementora**.
